@@ -292,9 +292,7 @@ DIVIDE(
 - Tenure Group
 - Last Interaction Date
 
-# Dashboard Preview
-
-Add your Power BI screenshot to the `images` folder:
+# Dashboard Preview:
 <img width="1417" height="797" alt="Image" src="https://github.com/user-attachments/assets/ff0c3ab4-256c-4a97-991e-ca6c66c0bd8c" />
 
 # Analysis Areas
