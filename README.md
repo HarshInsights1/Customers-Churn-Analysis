@@ -387,7 +387,7 @@ Use local configuration or environment variables for database credentials.
 - Python
 - Pandas
 - NumPy
-- SQL
+- MS SQL
 - Microsoft SQL Server
 - Power BI
 - DAX
